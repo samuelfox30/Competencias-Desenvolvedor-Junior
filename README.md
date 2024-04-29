@@ -8,15 +8,20 @@ Cada projeto está cuidadosamente documentado e comentado para fornecer insights
 
 ##
 
-Sabe-se que não existem conceitos específicos para ser considerado um desenvolvedor nível junior, mas existem algumas habilidades essenciais para que o desenvolvedor seja capaz de atuar na área. Atravéz de pesquisas e opiniões de pessoas da área, juntei conhecimento para estabelecer quais seriam essas exigências básicas. Elas são:
+### Habilidades Essenciais para Desenvolvedores Júnior
+
+Embora não haja critérios definidos para determinar o nível de um desenvolvedor júnior, certas habilidades são fundamentais para ingressar na área. Após pesquisas e consultas com profissionais do setor, compilei uma lista das competências básicas necessárias. Estas incluem:
 
 - [x] Dominar lógica de programação
 - [x] Dominar pelo menos 1 linguagem de programação
+  - **Linguagem que eu domino:** 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - [x] Dominar pelo menos 1 tipo de banco de dados
+  - **Bancos de dados que eu domino:** 
   - ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   - ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - [x] Dominar consultas e criações de APIs
+  - **Ferramenta para integração com API's que eu domino:**
   - ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - [ ] Dominar design pattern
 - [ ] Ter familiaridade com Kubernetes
