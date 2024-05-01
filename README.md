@@ -1,4 +1,4 @@
-# Demonstracao-de-Competencias-Desenvolvedor-Junior
+# Demonstração de competências - Desenvolvedor Junior
 Este repositório é uma coleção de projetos que demonstram minhas habilidades e competências como desenvolvedor júnior. Aqui, você encontrará uma variedade de trabalhos práticos que abrangem diversas áreas do desenvolvimento de software, incluindo Frontend, Backend, Bancos de Dados e muito mais.
 
 Cada projeto está cuidadosamente documentado e comentado para fornecer insights sobre meu processo de desenvolvimento e abordagens para resolver problemas. Sinta-se à vontade para explorar os projetos e entre em contato comigo se tiver alguma dúvida ou feedback.
@@ -27,4 +27,8 @@ Embora não haja critérios definidos para determinar o nível de um desenvolved
 - [ ] Ter familiaridade com Kubernetes
 - [ ] Conhecer pelo menos produtos e serviços de 1 Cloud Provider (AWS ou GCP ou Azure)
 - [ ] Princípios de desenvolvimento em  Cloud Publica "twelve factors" - Desenvolvimento Cloud Native
+##
+### Futuros desenvolvimentos
+Cada projeto neste repositório foi meticulosamente desenvolvido para oferecer uma demonstração tangível das minhas habilidades e competências como desenvolvedor júnior. Ao navegar pelas pastas, você encontrará uma variedade de trabalhos práticos, cada um criado com atenção aos detalhes e focado em proporcionar uma experiência significativa.
 
+Sinta-se à vontade para explorar cada projeto individualmente. Cada um foi concebido com o objetivo de fornecer uma compreensão clara das minhas capacidades e abordagens de resolução de problemas. Estou confiante de que você encontrará valor e qualidade em cada demonstração.
