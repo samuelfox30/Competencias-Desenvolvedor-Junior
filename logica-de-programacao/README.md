@@ -4,7 +4,7 @@ Esta pasta contém uma coleção de desafios, exercícios e implementações de 
 
 ### Desafios de Programação:
 - [Desafio 1](https://github.com/samuelfox30/Competencias-Desenvolvedor-Junior/blob/main/logica-de-programacao/binary_search/search.py): BUSCA BINÁRIA
-- [Desafio 2](): ...
+- [Desafio 2](https://github.com/samuelfox30/Competencias-Desenvolvedor-Junior/blob/main/logica-de-programacao/bubble_sort/bubble_sort.py): BUBBLE SORT
 
 ### Algoritimos e estrutura de dados:
 - [Algoritimo 1](): ...
