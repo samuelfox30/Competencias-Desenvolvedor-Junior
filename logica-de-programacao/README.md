@@ -3,7 +3,7 @@
 Esta pasta contém uma coleção de desafios, exercícios e implementações de algoritmos destinados a demonstrar minhas habilidades em lógica de programação. Aqui está uma visão geral do que você vai encontrar:
 
 ### Desafios de Programação:
-- [Desafio 1](): ...
+- [Desafio 1](https://github.com/samuelfox30/Competencias-Desenvolvedor-Junior/blob/main/logica-de-programacao/binary_search/search.py): BUSCA BINÁRIA
 - [Desafio 2](): ...
 
 ### Algoritimos e estrutura de dados:
